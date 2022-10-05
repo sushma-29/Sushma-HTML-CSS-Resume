@@ -1,0 +1,25 @@
+body{
+    background-color:lightcyan ;
+
+}
+
+
+
+
+h3{
+    background-color: lightgrey;
+    max-width:500px;
+    
+}
+
+table,td{
+    border:1px solid black;
+    border-collapse:collapse;
+}  
+
+table,th{
+    border:1px solid black;
+    border-collapse:collapse;
+}  
+
+
